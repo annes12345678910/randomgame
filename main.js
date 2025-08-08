@@ -4,7 +4,7 @@ paper.setup(document.getElementById('myCanvas'));
 // Create a circle
 const circle = new paper.Path.Circle({
   center: paper.view.center,
-  radius: 50,
+  radius: 10,
   fillColor: 'dodgerblue'
 });
 
