@@ -9,7 +9,7 @@ const circle = new paper.Path.Circle({
 });
 
 // Movement config
-const speed = 5;
+const speed = 1;
 const keys = {};
 
 // Track key states
